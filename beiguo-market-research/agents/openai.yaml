@@ -1,0 +1,4 @@
+interface:
+  display_name: "寻乌式市场调研"
+  short_description: "从典型市场深挖人货钱路规则历史变化，并转成产品机会、定价渠道与MVP验证判断"
+  default_prompt: "Use $beiguo-market-research to design a market and product research plan for a product, city, channel, or user segment. First capture the user's product/service, target users, industry/category, channel, pricing, stage, and constraints. Then investigate substitutes, buying chain, demand strength, willingness to pay, channel access, opportunity score, and MVP validation, and make conclusions specific to that context."
