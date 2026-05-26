@@ -154,4 +154,4 @@ Load `references/interview-guide.md` when the user asks for an interview outline
 
 Load `references/report-template.md` when the user asks for a final research report, synthesis report, market-entry judgment, product opportunity assessment, or reusable report outline.
 
-Optional examples live in `references/examples/`. Load only the specific example needed when the user asks for sample reports, style imitation, or case-based extraction.
+`references/examples/` is intentionally empty except for an index note. When the user provides an external report or case, use it as an example artifact and extract reusable patterns without treating it as built-in context.

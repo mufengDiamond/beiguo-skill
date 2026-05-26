@@ -95,8 +95,7 @@ beiguo-market-research/
     ├── interview-guide.md
     ├── report-template.md
     └── examples/
-        ├── index.md
-        └── *.md
+        └── index.md
 ```
 
 ## 设计原则
